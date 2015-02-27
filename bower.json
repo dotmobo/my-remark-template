@@ -22,6 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "remark": "~0.10.2"
+    "remark": "~0.10.2",
+    "ubuntu-fontface": "~0.1.3"
   }
 }
