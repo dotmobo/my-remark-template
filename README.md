@@ -2,9 +2,7 @@
 my own remark template
 
 # install
-* wget -O- https://github.com/morganbohn/my-remark-template/archive/master.zip | bsdtar xf -
-* cd my-remark-template-master
-* bower install
+* download and extract the git archive
 
 # usage
 * modify slideshow.md
